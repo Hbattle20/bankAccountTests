@@ -1,0 +1,15 @@
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\bin\Debug\net6.0\morningtest.exe
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\bin\Debug\net6.0\morningtest.deps.json
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\bin\Debug\net6.0\morningtest.runtimeconfig.json
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\bin\Debug\net6.0\morningtest.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\bin\Debug\net6.0\morningtest.pdb
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.csproj.AssemblyReference.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.AssemblyInfoInputs.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.AssemblyInfo.cs
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.csproj.CoreCompileInputs.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\refint\morningtest.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.pdb
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\morningtest.genruntimeconfig.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningtest\morningtest\obj\Debug\net6.0\ref\morningtest.dll
